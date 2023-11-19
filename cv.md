@@ -1,8 +1,14 @@
 # Vasil Sultanishvili
 
-## sultanishvilivaso61@gmail.com
+## Contact info
 
-## (+995)557 414242
+E-mail - **sultanishvilivaso61@gmail.com**
+
+Phone - **(+995)557 414242**
+
+Linkedin - **https://www.linkedin.com/in/vaso-sultanishvili-4b5122222/**
+
+Discord - **vaso.1**
 
 ## Present to myself:
 
