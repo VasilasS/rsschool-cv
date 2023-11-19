@@ -21,27 +21,56 @@ What matters most to me is writing code and crafting solutions that solve real-w
 **In summary**, I want not just to be a Developer, I want an enthusiastic learner, a problem solver, and a team player ready to contribute to the exciting development world.
 
 ## Skills
-* **React JS (Intermediate)**
-* TypeScript
-* REST API
-* Redux
-* Tailwind
-* StoryBook UI
-* Headless UI
-* **Git/Git Hub (Advanced)**
-* **Linux (Intermediate)**
-* **Docker**
-* **MySQL/SQL/Oracle - Database (Advanced)**
-* **PHP (Basic)**
-* **OOP C++ (Intermediate)**
-* **Blockchain Wallets(Metamask, Coinbase, TrustWallet)**
+
+- **React JS (Intermediate)**
+  - TypeScript
+  - REST API
+  - Redux
+  - Tailwind
+  - StoryBook UI
+  - Headless UI
+- **Git/Git Hub (Advanced)**
+- **Linux (Intermediate)**
+- **Docker**
+- **MySQL/SQL/Oracle - Database (Advanced)**
+- **PHP (Basic)**
+- **OOP C++ (Intermediate)**
+- **Blockchain Wallets(Metamask, Coinbase, TrustWallet)**
 
 ## Experience
 
-* **Trainer (Blender)**
-International Black Sea University
-15/11/2021-31/01/2022
+- **Trainer (Blender)**
+  International Black Sea University
+  15/11/2021-31/01/2022
 
-* **Junior React Dev**
-Hinkal-Protocol
-1/10/2022-27/09/2023
+- **Junior React Dev**
+  Hinkal-Protocol
+  1/10/2022-27/09/2023
+
+## Trainings and Courses
+
+- **Academind (Udemy)**
+  - React JS
+  - 11/09/2022 - 13/11/2022
+- **The 2022 ICPC South Caucasian Contest (In Algorithms)**
+  - 02/07/2022
+- **The 2021 ICPC Georgian Regional Contest (In Algorithms)**
+  - 26/12/2021
+- **Wix Training (GITA)**
+  - 03/06/2022 - 26/07/2022
+- **IT project management with a SCRUM approach**
+  - 11/12 / 2020 - 25 / 12/2020
+- **GOOGLE SERVICES AND EDMODO.COM**
+  - 21/01/2021 / - 02 / 02/2021
+
+## Education
+
+**International Black Sea University**
+**Bachelor of Computer Science**
+2020-2024
+
+## Languages
+
+- **English** - B2
+- **Georgian** - Fluent
+- **Russian** - A2
