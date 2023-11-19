@@ -74,3 +74,14 @@ What matters most to me is writing code and crafting solutions that solve real-w
 - **English** - B2
 - **Georgian** - Fluent
 - **Russian** - A2
+
+
+## Personal Traits
+- **Hard-Working**
+- **Punctuality**
+- **Flexibility**
+- **Problem-Solving**
+- **Communication** 
+- **Team-Working**
+- **Self-Motivation**
+- **Leadership**
